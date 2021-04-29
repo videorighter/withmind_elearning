@@ -2,6 +2,6 @@
 
 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10505873
 
-###대한산업공학회 2020 추계학술대회 포스터발표
+대한산업공학회 2020 추계학술대회 포스터발표
 
 위 연구와 관련된 코드입니다.
