@@ -1,5 +1,5 @@
 '''
-
+bagging algorithm
 '''
 
 # -*- coding: utf-8 -*-

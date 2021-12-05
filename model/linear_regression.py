@@ -34,4 +34,6 @@ def linear_regression_mean(path):
         print("mape: ", mean_absolute_percentage_error(y_pred, y_test))
         print(smf)
 
-linear_regression_mean("./dataset/mean_dataset.csv")
+
+if __name__ == "__main__":
+    linear_regression_mean("./dataset/mean_dataset.csv")

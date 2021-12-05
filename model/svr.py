@@ -28,4 +28,6 @@ def li_svr_five(path):
         print("mse: ", mean_squared_error(y_pred, y_test))
         print("mape: ", mean_absolute_percentage_error(y_pred, y_test))
 
-li_svr_five("./dataset/condition_indicators_dataset_five.csv")
+
+if __name__ == "__main__":
+    li_svr_five("./dataset/condition_indicators_dataset_five.csv")
